@@ -1,3 +1,3 @@
-module github.com/rmasci/gocsv
+module gocsv
 
-go 1.13
+go 1.16
